@@ -1,17 +1,19 @@
-# NieLin-PersonalWeb
-Hi，everyone, weclome to my Personal Website, and it can tell you about me.
+# ln-profile
 
-Step 1: git add --all
+## Project setup
+```
+yarn install
+```
 
-Step 2: git status (Just for check)
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-Step 3: git commit -m "update for test yyyymmdd(20210101)"
+### Compiles and minifies for production
+```
+yarn build
+```
 
-Step 4:  git push origin_ssh main
-
-Step 5: Go to your  ShellX to push the github~
-
-
-
-
-
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
